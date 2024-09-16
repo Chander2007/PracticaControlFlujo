@@ -1,0 +1,10 @@
+C:\PracticaControlFlujo\ejercicio2Prueba\bin\Debug\ejercicio2Prueba.exe.config
+C:\PracticaControlFlujo\ejercicio2Prueba\bin\Debug\ejercicio2Prueba.exe
+C:\PracticaControlFlujo\ejercicio2Prueba\bin\Debug\ejercicio2Prueba.pdb
+C:\PracticaControlFlujo\ejercicio2Prueba\obj\Debug\ejercicio2Prueba.csproj.AssemblyReference.cache
+C:\PracticaControlFlujo\ejercicio2Prueba\obj\Debug\ejercicio2Prueba.Form1.resources
+C:\PracticaControlFlujo\ejercicio2Prueba\obj\Debug\ejercicio2Prueba.Properties.Resources.resources
+C:\PracticaControlFlujo\ejercicio2Prueba\obj\Debug\ejercicio2Prueba.csproj.GenerateResource.cache
+C:\PracticaControlFlujo\ejercicio2Prueba\obj\Debug\ejercicio2Prueba.csproj.CoreCompileInputs.cache
+C:\PracticaControlFlujo\ejercicio2Prueba\obj\Debug\ejercicio2Prueba.exe
+C:\PracticaControlFlujo\ejercicio2Prueba\obj\Debug\ejercicio2Prueba.pdb
